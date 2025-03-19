@@ -17,7 +17,7 @@ Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/devopsheroes_devop
 
 Esta palestra foi realizada em conjunto com meu amigo **Diego Moreira Matos (Microsoft MVP)**.
 
-Deixo aqui meus agradecimentos ao **Daniel Ginês** e à **Aline Martins** por todo o apoio para que eu partipasse como palestrante de mais uma edição do **DevOps Experience**.
+Deixo aqui meus agradecimentos ao **Daniel Ginês** e à **Aline Martins** por todo o apoio para que participássemos como palestrantes de mais uma edição do **DevOps Experience**.
 
 ---
 
